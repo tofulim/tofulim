@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Tofulim's%20Profile&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Tofulim's%20Profile&fontSize=30)
 
 
 <a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Bloglovin &logoColor=white"/></a>   
