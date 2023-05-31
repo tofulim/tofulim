@@ -13,6 +13,8 @@
 - 2022 Artificial Intelligence Grand Challenge, 3rd Place
 - 2021 National Institute of the Korean Language AI Evaluation Contest, 1st Prize
 - 2020 AngelHack Seoul, 1st Prize
+#### 📜 Certificate
+- 2023 AWS SAA c03
 #### 💬 Contact
 - phone : 010-7118-2624
 - email : vail131@naver.com or zed.ai@tunib.ai
