@@ -16,5 +16,4 @@
 #### 📜 Certificate
 - 2023 AWS SAA c03
 #### 💬 Contact
-- phone : 010-7118-2624
 - email : vail131@naver.com or zed.ai@tunib.ai
