@@ -5,10 +5,10 @@
 <a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Bloglovin &logoColor=white"/></a>   
  
 #### 🔭 Career
-- NLP Engineer at [TUNiB](https://tunib.ai/)
+- 2021.12~ NLP Engineer at [TUNiB](https://tunib.ai/)
 #### 🎓 Education
-- Naver Connect Foundation Boostcamp AI Tech, completed
-- Bachelor of Science in Computer Science and Engineering at Incheon National University
+- 2021 Naver Connect Foundation Boostcamp AI Tech, completed
+- 2015~2021 Bachelor of Science in Computer Science and Engineering at Incheon National University
 #### 🏆 Competitions
 - 2022 Artificial Intelligence Grand Challenge, 3rd Place
 - 2021 National Institute of the Korean Language AI Evaluation Contest, 1st Prize
