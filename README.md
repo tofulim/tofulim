@@ -10,6 +10,7 @@
 - 2021 Naver Connect Foundation Boostcamp AI Tech, completed
 - 2015~2021 Bachelor of Science in Computer Science and Engineering at Incheon National University
 #### 🏆 Competitions
+- 2023 Artificial Intelligence Grand Challenge Level 2, 8rd Place
 - 2022 Artificial Intelligence Grand Challenge, 3rd Place
 - 2021 National Institute of the Korean Language AI Evaluation Contest, 1st Prize
 - 2020 AngelHack Seoul, 1st Prize
