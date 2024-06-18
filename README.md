@@ -5,8 +5,8 @@
 <a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Bloglovin &logoColor=white"/></a>   
  
 #### 🔭 Career
-- 2021.12~ NLP Engineer at [TUNiB](https://tunib.ai/)
 - 2024.06~ AI Engineer at [D-Meta](https://www.d-meta.ai/)
+- 2021.12~ NLP Engineer at [TUNiB](https://tunib.ai/)
 #### 🎓 Education
 - 2021 Naver Connect Foundation Boostcamp AI Tech, completed
 - 2015~2021 Bachelor of Science in Computer Science and Engineering at Incheon National University
