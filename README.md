@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Tofulim's%20Profile&fontSize=30)
 
-
-<a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Bloglovin &logoColor=white"/></a>   
+<a href="https://tofulim.github.io/" target="_blank"><img src="https://img.shields.io/badge/git_blog-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/naver_blog-01DF3A?style=flat-square&logo=Naver&logoColor=white"/></a>
  
 #### 🔭 Career
 - 2024.06~ AI Engineer at [D-Meta](https://www.d-meta.ai/)
