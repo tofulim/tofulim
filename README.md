@@ -16,6 +16,7 @@
 - 2021 National Institute of the Korean Language AI Evaluation Contest, 1st Prize
 - 2020 AngelHack Seoul, 1st Prize
 #### 📜 Certificate
+- 2024 CKA
 - 2023 AWS SAA c03
 #### 💬 Contact
-- email : vail131@naver.com or zed.ai@tunib.ai
+- email : vail131@naver.com or zed@d-meta.ai
