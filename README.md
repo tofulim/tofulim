@@ -5,7 +5,8 @@
 <a href="https://blog.naver.com/vail131" target="_blank"><img src="https://img.shields.io/badge/naver_blog-01DF3A?style=flat-square&logo=Naver&logoColor=white"/></a>
  
 #### 🔭 Career
-- 2024.06~ AI Engineer at [D-Meta](https://www.d-meta.ai/)
+- 2025.09~ MLOps Engineer at [LuLu-Lab](https://www.lulu-lab.com/)
+- 2024.06~2025.09 AI Engineer at [D-Meta](https://www.d-meta.ai/)
 - 2021.12~2024.06 NLP Engineer at [TUNiB](https://tunib.ai/)
 #### 🎓 Education
 - 2021 Naver Connect Foundation Boostcamp AI Tech, completed
